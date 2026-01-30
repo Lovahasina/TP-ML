@@ -1,15 +1,15 @@
 
 # TP-ML
 a- ISPM – Institut Supérieur Polytechnique de Madagascar: www.ispm-edu.com
-b-  Josia RANERIA Mahatoky 
-    RAKOTOARISOA Laingo Tsilavina
-    HASINAVALONA Lovatiana 
-    ANDRIAMAROAHINA Harimanantsoa
-    Cois NEWMAN Noah
+b-  Josia RANERIA Mahatoky back-Lead
+    RAKOTOARISOA Laingo Tsilavina back
+    HASINAVALONA Lovatiana front
+    ANDRIAMAROAHINA Harimanantsoa back
+    Cois NEWMAN Noah front
 
 c- La description du stack technologique
 Le projet est développé avec un stack moderne orienté Data Science et Web Rapide :
-Langage : Python 3.x, le standard pour le Machine Learning.
+Langage : Python 3.11, le standard pour le Machine Learning.
 Traitement de données : Pandas et NumPy pour la manipulation des fichiers CSV et des matrices.
 NLP (Natural Language Processing) : NLTK, utilisé pour le nettoyage linguistique et la gestion des "mots vides" (Stopwords).
 Machine Learning : Scikit-learn, utilisé pour la vectorisation des textes, l'entraînement du modèle et le calcul des métriques de performance.
