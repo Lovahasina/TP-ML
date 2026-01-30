@@ -18,7 +18,7 @@ from nltk.corpus import stopwords
 nltk.download('stopwords', quiet=True)
 
 nltk.download('stopwords', quiet=True)
-nltk.download('punkt', quiet=True
+nltk.download('punkt', quiet=True)
 
 @st.cache_data
 def get_stopwords():
