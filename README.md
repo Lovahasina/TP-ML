@@ -41,4 +41,4 @@ Régression Logistique : Bien que son nom indique "régression", c'est un puissa
 f- Les datasets utilisés
 Le modèle a été entraîné sur un dataset hybride et multilingue :Source : Fichier data-en-hi-de-fr.csv.Contenu : Ce dataset est particulièrement riche car il contient des messages traduits ou rédigés en Français, ce qui répond directement à l'objectif principal du hackathon (base principale en français).Structure : * text_fr : La colonne contenant les messages en français (notre variable d'entrée $X$).labels : La colonne cible (notre variable de sortie $y$) indiquant si le message est légitime ou indésirable.Répartition : Une analyse exploratoire (EDA) a été réalisée pour visualiser la proportion entre les spams et les hams afin de s'assurer de la qualité de l'apprentissage.
 
-g-
+g-https://avvdqt7m7qi64gmqtebpny.streamlit.app/
